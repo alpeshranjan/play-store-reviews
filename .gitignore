@@ -1,0 +1,8 @@
+*.csv
+collect_state.json
+collect_state.json.tmp
+postgres_summary.txt
+__pycache__/
+.DS_Store
+.Rhistory
+.Rproj.user/
